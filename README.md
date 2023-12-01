@@ -22,8 +22,8 @@ This is a solution to the [QR code]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/SOBAN7AKRAM/QR-Code)
+- Live Site URL: [live site URL](https://soban7akram.github.io/QR-Code/)
 
 ## My process
 
@@ -35,6 +35,6 @@ This is a solution to the [QR code]
 
 ## Author
 
-- Google - [M Soban Akram](msobanakram@gmail.com)
+- Facebook - [M Soban Akram](https://www.facebook.com/msnbanch.soban?mibextid=ZbWKwL)
 - Frontend Mentor - [@SOBAN7AKRAM](https://www.frontendmentor.io/profile/SOBAN7AKRAM)
 
